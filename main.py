@@ -1,1 +1,1 @@
-prinefaeaecaevavkomkokmokokt("Hola mundo")
+print("Hola mundo")
